@@ -1,4 +1,4 @@
-// A smol example of how you can bring in external data
+// example of how you can bring in external data
 // Used on the home page: ![cat of the day]({{ catpic }})
 
 const axios = require("axios");
